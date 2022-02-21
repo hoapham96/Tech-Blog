@@ -1,6 +1,8 @@
 # Tech-Blog
 ## Description
 A mysql database and CMS-style Blog built using Model View Controller (MVC) paradigm. Built using MySQL2, Express, Sequelize, Bulma, Handlebars and dotenv
+## Link
+https://tech-blog-1396.herokuapp.com/ 
 ## Application Screenshot
 ![Screen Shot 2022-02-20 at 11 23 00 PM](https://user-images.githubusercontent.com/89959754/154894394-e9c57759-68bb-49ef-885d-3d0ea4fdf973.png)
 
